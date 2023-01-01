@@ -18,7 +18,7 @@ int atmPin=sc.nextInt();
 if((atmnumber == atmNumber)&&(atmpin == atmPin)) {
 	System.out.println("Validation Done");
 	while(true){
-	System.out.println("1.View Available Balance\n2.Withdraw Balance \n3.Deposit Amount \n4.View Mini Statement \n5.Exit");
+	System.out.println("1.View Available Balance\n2.Withdraw Balance \n3.Deposit Amount \n4.View Mini Statement \n5.Cancel");
 System.out.println("Enter Choice");
 int ch=sc.nextInt();
 if(ch == 1)
