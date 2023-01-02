@@ -44,7 +44,7 @@ if(ch == 4)
 if(ch == 5)
 {
 	System.out.println("Collect Your ATM Card\n    Thank you!!! ");
-System.out.println(0);
+System.exit(0);
 }else 
 {
 	System.out.println("Please Enter correct Choice ");
